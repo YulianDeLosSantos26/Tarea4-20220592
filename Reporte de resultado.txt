@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prueba ITLA</title>
+</head>
+<body>
+    <h2>Prueba ITLA</h2>
+    <ul>
+        <li>22:09:17 - <strong>open</strong> en <a href="https://plataformavirtual.itla.edu.do/login/index.php">https://plataformavirtual.itla.edu.do/login/index.php</a> <span style="color: green;">OK</span></li>
+        <li>22:09:19 - <strong>setWindowSize</strong> en 1280x680 <span style="color: green;">OK</span></li>
+        <li>22:09:19 - <strong>click</strong> en <span id="password">id=password</span> <span style="color: green;">OK</span></li>
+        <li>22:09:19 - <strong>click</strong> en <span id="password">id=password</span> <span style="color: green;">OK</span></li>
+        <li>22:09:21 - <strong>type</strong> en <span id="password">id=password</span> con valor 270764Yulian26@ <span style="color: green;">OK</span></li>
+        <li>22:09:22 - <strong>click</strong> en <span id="loginbtn">id=loginbtn</span> <span style="color: green;">OK</span></li>
+        <li>22:09:23 - Intentando encontrar <span id="drop-down-64d6e2c814afe64d6e2c6258f88">id=drop-down-64d6e2c814afe64d6e2c6258f88</span>... <span style="color: green;">OK</span></li>
+        <li>22:09:24 - Advertencia: Elemento encontrado con localizador secundario <span linkText="Mis cursos">linkText=Mis cursos</span>. Para usarlo por defecto, actualiza el paso de prueba para usarlo como el localizador principal.</li>
+        <li>22:10:02 - <strong>click</strong> en <span linkText="Programación III (Presencial / Virtual) | 2023-C-2 | Kelyn Tejada Belliard">linkText=Programación III (Presencial / Virtual) | 2023-C-2 | Kelyn Tejada Belliard</span> <span style="color: green;">OK</span></li>
+        <li>22:10:02 - <strong>runScript</strong> en <span>window.scrollTo(0,200)</span> <span style="color: green;">OK</span></li>
+        <li>22:10:03 - <strong>mouseOver</strong> en <span class="fhs-tooltip">css=.fhs-tooltip</span> <span style="color: green;">OK</span></li>
+        <li>22:10:11 - <strong>mouseOut</strong> en <span class="fhs-tooltip">css=.fhs-tooltip</span> <span style="color: green;">OK</span></li>
+        <li>22:10:12 - <strong>click</strong> en <span class="fa-cogs">css=.fa-cogs</span> <span style="color: green;">OK</span></li>
+        <li>22:10:13 - <strong>click</strong> en <span class="fa-bar-chart">css=.fa-bar-chart</span> <span style="color: green;">OK</span></li>
+        <li>22:10:14 - <strong>mouseOver</strong> en <span linkText="Debate 1 calificación">linkText=Debate 1 calificación</span> <span style="color: green;">OK</span></li>
+        <li>22:10:15 - <strong>mouseOver</strong> en <span class="h1">css=h1</span> <span style="color: green;">OK</span></li>
+        <li>22:10:18 - <strong>click</strong> en <span linkText="2023-C-2-1615-2880-TDS-007">linkText=2023-C-2-1615-2880-TDS-007</span> <span style="color: green;">OK</span></li>
+        <li>22:10:19 - <strong>click</strong> en <span class="list-group:nth-child(1) li:nth-child(2) .media-body">css=.list-group:nth-child(1) li:nth-child(2) .media-body</span> <span style="color: green;">OK</span></li>
+        <li>22:10:20 - <strong>mouseOver</strong> en <span class="h1">css=h1</span> <span style="color: green;">OK</span></li>
+        <li>22:10:23 - <strong>mouseOut</strong> en <span class="h1">css=h1</span> <span style="color: green;">OK</span></li>
+        <li>22:10:26 - <strong>mouseOver</strong> en <span linkText="2023-C-2-1615-2880-TDS-007">linkText=2023-C-2-1615-2880-TDS-007</span> <span style="color: green;">OK</span></li>
+        <li>22:10:27 - <strong>mouseOut</strong> en <span linkText="2023-C-2-1615-2880-TDS-007">linkText=2023-C-2-1615-2880-TDS-007</span> <span style="color: green;">OK</span></li>
+        <li>22:10:28 - Intentando encontrar <span id="form_autocomplete_downarrow-1691804411491">id=form_autocomplete_downarrow-1691804411491</span>... <span style="color: green;">OK</span></li>
+        <li>22:10:29 - Advertencia: Elemento encontrado con localizador secundario <span xpath="//fieldset/div/div[2]/div/span">xpath=//fieldset/div/div[2]/div/span</span>. Para usarlo por defecto, actualiza el paso de prueba para usarlo como el localizador principal.</li>
+        <li>22:11:00 - Intentando encontrar <span class="form_autocomplete_suggestions-1691804411491">css=#form_autocomplete_suggestions-1691804411491 > li:nth-child(2)</span>... <span style="color: green;">OK</span></li>
+        <li>22:11:00 - Advertencia: Elemento encontrado con localizador secundario <span xpath="//li[@id='']">xpath=//li[@id='']</span>. Para usarlo por defecto, actualiza el paso de prueba para usarlo como el localizador principal.</li>
+        <li>22:11:31 - Intentando encontrar <span class="form_autocomplete_suggestions-1691804411491">css=#form_autocomplete_suggestions-1691804411491 > li:nth-child(2)</span>... <span style="color: green;">OK</span></li>
+        <li>22:11:31 - Advertencia: Elemento encontrado con localizador secundario <span xpath="//li[@id='']">xpath=//li[@id='']</span>. Para usarlo por defecto, actualiza el paso de prueba para usarlo como el localizador principal.</li>
+        <li>22:12:02 - <strong>click</strong> en <span class="d-flex > .btn-primary">css=.d-flex > .btn-primary</span> <span style="color: green;">OK</span></li>
+        <li>22:12:02 - <strong>mouseOver</strong> en <span class="fa-cogs">css=.fa-cogs</span> <span style="color: green;">OK</span></li>
+        <li>22:12:03 - <strong>mouseOut</strong> en <span class="fa-cogs">css=.fa-cogs</span> <span style="color: green;">OK</span></li>
+        <li>22:12:04 - <strong>mouseOver</strong> en <span class="fhs-tooltip">css=.fhs-tooltip</span> <span style="color: green;">OK</span></li>
+        <li>22:12:05 - <strong>mouseOut</strong> en <span class="fhs-tooltip">css=.fhs-tooltip</span> <span style="color: green;">OK</span></li>
+        <li>22:12:06 - <strong>click</strong> en <span class="site-name">css=.site-name</span> <span style="color: green;">OK</span></li>
+        <li>22:12:07 - <strong>click</strong> en <span linkText="Calendario">linkText=Calendario</span> <span style="color: green;">OK</span></li>
+        <li>22:12:08 - <strong>runScript</strong> en <span>window.scrollTo(0,127.33333587646484)</span> <span style="color: green;">OK</span></li>
+        <li>22:12:15 - <strong>runScript</strong> en <span>window.scrollTo(0,600)</span> <span style="color: green;">OK</span></li>
+        <li>22:12:22 - <strong>runScript</strong> en <span>window.scrollTo(0,274)</span> <span style="color: green;">OK</span></li>
+        <li>22:12:23 - <strong>click</strong> en <span class="day:nth-child(6) > .d-none .icon">css=.day:nth-child(6) > .d-none .icon</span> <span style="color: green;">OK</span></li>
+        <li>22:12:24 - <strong>click</strong> en <span class="modal-header > .close">css=.modal-header > .close</span> <span style="color: green;">OK</span></li>
+        <li>22:12:25 - <strong>click</strong> en <span id="action-menu-toggle-1">id=action-menu-toggle-1</span> <span style="color: green;">OK</span></li>
+        <li>22:12:26 - <strong>click</strong> en <span id="actionmenuaction-7">id=actionmenuaction-7</span> <span style="color: green;">OK</span></li>
+        <li>22:12:27 - <strong>click</strong> en <span id="password">id=password</span> <span style="color: green;">OK</span></li>
+        <li>22:12:28 - <strong>type</strong> en <span id="password">id=password</span> con valor 33333333 <span style="color: green;">OK</span></li>
+        <li>22:12:30 - <strong>click</strong> en <span id="loginbtn">id=loginbtn</span> <span style="color: green;">OK</span></li>
+        <li>22:12:31 - <strong>click</strong> en <span id="password">id=password</span> <span style="color: green;">OK</span></li>
+        <li>22:12:32 - Intentando encontrar <span id="yui_3_17_2_1_1691804486178_27">id=yui_3_17_2_1_1691804486178_27</span>... <span style="color: green;">OK</span></li>
+        <li>22:12:34 - Advertencia: Elemento encontrado con localizador secundario <span xpath="//section/div/div[2]">xpath=//section/div/div[2]</span>. Para usarlo por defecto, actualiza el paso de prueba para usarlo como el localizador principal.</li>
+        <li>22:13:05 - 'prueba itla' completada exitosamente</li>
+    </ul>
+</body>
+</html>
